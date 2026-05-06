@@ -4,6 +4,8 @@
 
 Skinet is an e-shop application for selling products for winter sports. The backend of the application is implemented in C#/.NET WEB API and the client in Angular.
 
+![Screenshots](Screenshots/UI1.png)
+
 ## Instructions of use
 
 
