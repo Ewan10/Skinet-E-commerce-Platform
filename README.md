@@ -6,6 +6,8 @@ Skinet is an e-shop application for selling products for winter sports. The back
 
 ![Screenshots](/Screenshots/UI_1.png)
 
+![Screenshots](/Screenshots/Product.png)
+
 ## Instructions of use
 
 
